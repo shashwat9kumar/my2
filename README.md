@@ -7,7 +7,7 @@
 
 
 
-![Cpp Badge](https://img.shields.io/badge/-C++-00599C?style=flat&labelColor=black&logo=c%2B%2B&logoColor=00599C)
+![Cpp Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=black&logo=java&logoColor=007396)
 ![Maven Badge](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat&labelColor=black&logo=apache-maven&logoColor=C71A36)
 ![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=flat&labelColor=black&logo=jenkins&logoColor=D24939)
