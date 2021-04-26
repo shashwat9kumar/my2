@@ -5,7 +5,13 @@
 </p>
 <h3 align="center">A DevOps and Machine Learning Enthusiast</h3>
 
+<br>
+<hr style= "border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;">
+<br>
+
 # Tools and Technologies 
+:mechanical_arm:
 
 ![Cpp Badge](https://img.shields.io/badge/-C++-00599C?style=flat&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=black&logo=java&logoColor=007396)
@@ -29,9 +35,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shashwat9kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="shashwat9kumar" height="30" width="40" /></a>
-</p>
+
+<br>
 
 <a href="https://github.com/shashwat9kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/github.svg" alt="shashwat9kumar" height="30" width="40" /></a>
 </p>
@@ -51,11 +56,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat9kumar" alt="shashwat9kumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shashwat9kumar" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat9kumar?logo=twitter&style=for-the-badge" alt="shashwat9kumar" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/shashwat9kumar" target="blank"><img src="https://img.shields.io/twitter/follow/shashwat9kumar?logo=twitter&style=for-the-badge" alt="shashwat9kumar" /></a> </p>
 
 <p align="left"> <a href="https://github.com/shashwat9kumar" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=for-the-badge"></a> </p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=social"> -->
 
 
 
