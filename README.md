@@ -1,6 +1,9 @@
 <p align="center">
- <img width="500px" height="350px" src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/200.webp?cid=ecf05e47ik3db638zxp1z4kjfrrqw8tzxe44ude36y6mdw60&rid=200.webp&ct=g" align="center" alt="My Profile Picture" />
+ <img width="500px" height="500px" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif" align="center" alt="My Profile Picture" />
  
+
+<!-- https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/200.webp?cid=ecf05e47ik3db638zxp1z4kjfrrqw8tzxe44ude36y6mdw60&rid=200.webp&ct=g -->
+
  <h1 align="center">Hello World, This is Shashwat</h1>
 </p>
 <h3 align="center">A DevOps and Machine Learning Enthusiast</h3>
@@ -11,7 +14,9 @@
 <br>
 
 # Tools and Technologies 
-:mechanical_arm:
+
+<h4>Here are the tools I've been acquainted with</h4>
+<br>
 
 ![Cpp Badge](https://img.shields.io/badge/-C++-00599C?style=flat&labelColor=black&logo=c%2B%2B&logoColor=00599C)
 ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&labelColor=black&logo=java&logoColor=007396)
@@ -28,29 +33,30 @@
 ![Amazon AWS Badge](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat&labelColor=black&logo=amazon-aws&logoColor=232F3E)
 
 
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
+<br>
+<hr style= "border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;">
 <br>
 
-<a href="https://github.com/shashwat9kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/github.svg" alt="shashwat9kumar" height="30" width="40" /></a>
-</p>
+# General Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat9kumar&show_icons=true&locale=en&layout=compact" alt="shashwat9kumar" /></p>
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwat9kumar&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat9kumar&show_icons=true&locale=en" alt="shashwat9kumar" /></p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat9kumar
+)](https://github.com/shashwat9kumar)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat9kumar&" alt="shashwat9kumar" /></p>
-
-
-
+[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=shashwat9kumar
+)](https://github.com/shashwat9kumar)
 
 
+
+
+<br>
+<hr style= "border-top: 1px solid #8c8b8b;
+	border-bottom: 1px solid #fff;">
+<br>
+
+#### Number of visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat9kumar&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat9kumar" /> </p>
 
@@ -61,7 +67,6 @@
 <p align="left"> <a href="https://github.com/shashwat9kumar" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=for-the-badge"></a> </p>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=social"> -->
-
 
 
 
