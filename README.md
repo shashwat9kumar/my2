@@ -16,7 +16,7 @@
 
 <br>
 
-# Connect with me on
+# Find me on
 
 
 * <p align="left"> <a href="https://www.linkedin.com/in/shashwat-kumar-699498185/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=white&logo=linkedin&logoColor=0A66C2"></a> </p>
