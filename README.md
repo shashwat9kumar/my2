@@ -73,7 +73,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat9kumar" alt="shashwat9kumar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat9kumar&title=Stars,Followers,Commit,Repositories,PullRequest&theme=darkhub" alt="shashwat9kumar" /></a> </p>
 
 #### Number of visitors 
 
