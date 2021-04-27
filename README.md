@@ -85,13 +85,13 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/shashwat9kumar?style=social"> -->
 
-![Skyline](https://skyline.github.com/shashwat9kumar/2021)
+<!-- ![Skyline](https://skyline.github.com/shashwat9kumar/2021)
 
 
 <div style="width:100%; padding-bottom:56.25%; position:relative;">
   <iframe src="https://skyline.github.com/shashwat9kumar/2021" style="position:absolute; top:0px; left:0px; 
   width:100%; height:100%; border: none; overflow: hidden;"></iframe>
-</div>
+</div> -->
 
 
 
