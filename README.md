@@ -57,10 +57,10 @@
 
 ![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwat9kumar&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat9kumar
-)](https://github.com/shashwat9kumar)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat9kumar
+)](https://github.com/shashwat9kumar) -->
 
-[![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=shashwat9kumar
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat9kumar
 )](https://github.com/shashwat9kumar)
 
 
