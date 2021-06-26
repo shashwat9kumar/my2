@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
  <img width="500px" height="500px" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif" align="center" alt="My Profile Picture" /></p>
  
- 
+  -->
  <p align="center">
  <img width="500px" height="500px" src="https://cdn.dribbble.com/users/948184/screenshots/11113146/media/89e27934b3cd07c96c8b764c55ed3dee.gif" align="center" alt="My Profile Picture" /></p>
  
@@ -96,7 +96,8 @@
   <iframe src="https://skyline.github.com/shashwat9kumar/2021" style="position:absolute; top:0px; left:0px; 
   width:100%; height:100%; border: none; overflow: hidden;"></iframe>
 </div> -->
-
+<hr>
+<p>Header GIF Crediits: <a href="https://dribbble.com/shots/11113146--hey-hey">Miguelgarest</a></p>
 
 
 
