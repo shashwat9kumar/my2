@@ -12,7 +12,7 @@
 
 # About me
 
-* 📖 I'm a pre-final year undergraduate student, persuing graduation in computer science from University of Petroleum and Energy Studies, Dehradun, India
+* 📖 I'm a final year undergraduate student, persuing graduation in computer science from University of Petroleum and Energy Studies, Dehradun, India
 * 🖥️ I'm a DevOps and Machine Learning enthusiast
 * 💡 I like to explore new technologies and the trends in the IT
 * ✏️ I write sometimes too (you can check me out on Medium and Hashnode)
